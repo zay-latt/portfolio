@@ -1,5 +1,5 @@
 total = 18.07
-cash = 100
+cash = 20
 
 change = round(cash - total, 2)
 print("Change due:", change)
