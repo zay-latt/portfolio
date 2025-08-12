@@ -1,7 +1,8 @@
-total = 18.07
+cost = 18.07
 cash = 20
 
-change = round(cash - total, 2)
+change = round(cash - cost, 2)
+print()
 print("Change due:", change)
 
 Dollars =   change // 1
